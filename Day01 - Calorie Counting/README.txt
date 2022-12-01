@@ -35,7 +35,7 @@ Find the Elf carrying the most Calories. How many total Calories is that Elf car
 
 Your puzzle answer was 74394. 
 
---- Part Two ---
+--- PART TWO ---
 
 By the time you calculate the answer to the Elves' question, they've already realized that the Elf carrying the most Calories of food might eventually run out of snacks.
 
