@@ -25,7 +25,6 @@ For example, suppose the Elves finish writing their items' Calories and end up w
 9000
 
 10000
-
 This list represents the Calories of the food carried by five Elves:
 
 The first Elf is carrying food with 1000, 2000, and 3000 Calories, a total of 6000 Calories.
@@ -47,3 +46,7 @@ To avoid this unacceptable situation, the Elves would instead like to know the t
 In the example above, the top three Elves are the fourth Elf (with 24000 Calories), then the third Elf (with 11000 Calories), then the fifth Elf (with 10000 Calories). The sum of the Calories carried by these three elves is 45000.
 
 Find the top three Elves carrying the most Calories. How many Calories are those Elves carrying in total?
+
+Your puzzle answer was 212836.
+
+Both parts of this puzzle are complete! They provide two gold stars: **
